@@ -1,0 +1,2 @@
+# merox
+Elixir memcached library
